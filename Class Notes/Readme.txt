@@ -1,1 +1,1 @@
-Data Science Assignments
+Data Science Class Notes
