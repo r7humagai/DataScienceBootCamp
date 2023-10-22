@@ -77,3 +77,9 @@
 
 - **File:** `SQL_Practice_fcc.sql`
 - **Description:** SQL Practice Notebook.
+
+- ## Cat vs. Dog Image Classification with CNN
+
+- **File:** `NN_Convolutional_Image_Classification.ipynb`
+- **Description:** Train a Convolutional Neural Network (CNN) to classify cat and dog images with precision.
+
