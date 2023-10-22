@@ -69,6 +69,9 @@
 - **File:** `ML_SupportVector_Regression.ipynb`
 - **Description:** Prediction of salaries using support vector regression.
 
+### Python Fundamentals
+
+- **Description:** Python fundamentals and data manipulation concepts
 
 ### SQL Practice (SQL)
 
