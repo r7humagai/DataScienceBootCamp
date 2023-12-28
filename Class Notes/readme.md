@@ -78,6 +78,8 @@
 - **File:** `SQL_Practice_fcc.sql`
 - **Description:** SQL Practice Notebook.
 
+### API Implementation (Flask)
+
 ### Cat vs. Dog Image Classification with CNN
 
 - **File:** `NN_Convolutional_Image_Classification.ipynb`
